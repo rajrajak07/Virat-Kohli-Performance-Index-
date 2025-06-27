@@ -19,7 +19,8 @@ This Power BI dashboard showcases an in-depth analysis of Indian cricketer **Vir
 - 🔹 Stylish layout with team branding and flags
 
 ## 📷 Dashboard Preview
-![Virat Kohli Dashboard](Screenshot%202025-05-11%20161529.png)
+![Virat Kohli Dashboard]![Uploading Screenshot 2025-05-11 161529.png…]()
+
 
 ## 📂 Files Included
 - `virat_kohli_dashboard.pbix` – Power BI file  
